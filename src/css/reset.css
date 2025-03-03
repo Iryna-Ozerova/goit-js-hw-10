@@ -56,7 +56,7 @@ img {
   padding: 8px 16px;
   font-weight: 500;
   color: #fff;
-  background: rgb(99, 157, 139);
+  background: #cfcfcf;
   border: none;
   border-color: transparent;
   border-radius: 8px;
@@ -66,7 +66,7 @@ img {
 }
 
 .main-btn:hover {
-  background: rgb(87, 128, 115);
+  background: #a19e9e;
 }
 /*
 .container {
